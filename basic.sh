@@ -1,2 +1,1 @@
-variable ="Hello"
-echo $variable
+echo "Helloo from GIT"
